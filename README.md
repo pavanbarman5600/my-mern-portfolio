@@ -56,3 +56,4 @@ The backend supports **secure authentication** using JWT, while the admin panel 
 
 ## 🖼️ Preview 
 
+(https://res.cloudinary.com/daqg8nudw/image/upload/v1750989371/file_00000000fb1461f9a7a1c2284a166bcd_weupz7.png)
