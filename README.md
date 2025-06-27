@@ -57,3 +57,25 @@ The backend supports **secure authentication** using JWT, while the admin panel 
 ## 🖼️ Preview 
 
 (https://res.cloudinary.com/daqg8nudw/image/upload/v1750989371/file_00000000fb1461f9a7a1c2284a166bcd_weupz7.png)
+
+
+
+## 📎 License
+
+This research paper is publicly available on Zenodo and is shared under open-access terms. For reference, citation, or academic use, please credit the original author via DOI.
+
+
+
+## 🔖 Tags
+
+`#MERN` `#ResearchPaper` `#AIChatbot` `#Zenodo` `#FullStack` `#MongoDB` `#ReactJS` `#Botpress` `#TailwindCSS` `#PavanBarman` `#AcademicResearch` `#WebDevelopment`
+
+
+## 🌐 Connect with Me
+
+- 🌐 Portfolio: [pavanbarman.engineer](https://pavanbarman.engineer/)
+- 📬 Email: pavanbarman560@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/pavanbarman](https://www.linkedin.com/in/pavanbarman)
+
+
+⭐️ Star this repo to support and inspire future developers!
